@@ -1,115 +1,120 @@
 # 📊 Vrinda Store Annual Report 2022
 
-An interactive sales dashboard project analyzing Vrinda Store's 2022 sales performance, customer demographics, order status, and sales channels using spreadsheet tools.
+**An Interactive Sales Dashboard Project Using Excel / WPS Spreadsheet**
 
-## 📌 Project Overview
-
-The objective of this project is to analyze Vrinda Store's annual sales data for 2022 and identify trends in customer purchasing behavior, regional sales performance, and channel contribution. The insights can help the business make informed decisions and develop strategies to improve sales.
+This project analyzes Vrinda Store's 2022 sales performance through an interactive dashboard, highlighting monthly trends, customer demographics, regional sales, order status, and sales channel performance.
 
 ## 🖼️ Dashboard Preview
 
-![Vrinda Store Annual Report 2022 Dashboard](dashboard.png)
+![Vrinda Store Annual Report 2022 Dashboard](https://raw.githubusercontent.com/MohitSati7/vrinda-store-annual-report-2022/main/Screenshot%20%28109%29.png)
+
+## 📌 Project Overview
+
+The goal of this project is to transform sales data into meaningful business insights using spreadsheet analysis and interactive visualizations. The dashboard helps identify customer purchasing patterns, high-performing states, and sales channels to support better business decisions.
 
 ## 🎯 Project Objectives
 
 - Analyze monthly sales and order trends.
-- Compare purchasing behavior between men and women.
+- Compare sales contribution by gender.
 - Identify the top five states by sales.
-- Examine order status distribution.
-- Understand purchasing patterns across age groups and genders.
+- Analyze order delivery, cancellation, return, and refund status.
+- Compare customer age groups and gender.
 - Evaluate sales channel performance.
-- Develop data-driven business recommendations.
+- Develop actionable business recommendations.
 
 ## 🛠️ Tools & Skills Used
 
-- **WPS Spreadsheet / Excel** — Data analysis and dashboard creation
-- **Pivot Tables** — Summarizing and analyzing sales data
-- **Pivot Charts** — Visualizing sales trends and customer behavior
+- **Microsoft Excel / WPS Spreadsheet** — Spreadsheet analysis and dashboard development
+- **Pivot Tables** — Data summarization and comparison
+- **Pivot Charts** — Visual representation of sales performance
 - **Slicers** — Interactive filtering by month, channel, and category
-- **Data Visualization** — Presenting insights through charts and graphs
-- **Business Analysis** — Converting findings into actionable recommendations
+- **Data Visualization** — Communicating trends and patterns
+- **Business Analysis** — Deriving insights and recommendations
 
-## 📈 Key Dashboard Insights
+## 📈 Key Insights
 
-### 1. Monthly Sales & Orders
+### 1. Monthly Sales Performance
 - March recorded the highest sales and order activity in the monthly trend.
-- The dashboard tracks monthly sales amounts and order counts to identify performance changes throughout the year.
+- Monthly comparisons help identify changes in sales and order volume.
 
 ### 2. Sales by Gender
 - Women contributed approximately **64%** of sales.
 - Men contributed approximately **36%** of sales.
-- Women represented the larger customer segment by sales contribution.
+- Women represented the larger sales segment.
 
 ### 3. Top 5 States by Sales
-The leading states shown in the dashboard were:
 
-1. Maharashtra — 2.99M
-2. Karnataka — 2.65M
-3. Uttar Pradesh — 2.10M
-4. Telangana — 1.71M
-5. Tamil Nadu — 1.68M
+| Rank | State | Sales |
+|---|---|---:|
+| 1 | Maharashtra | 2.99M |
+| 2 | Karnataka | 2.65M |
+| 3 | Uttar Pradesh | 2.10M |
+| 4 | Telangana | 1.71M |
+| 5 | Tamil Nadu | 1.68M |
 
 ### 4. Order Status
-- Delivered: 92%
-- Cancelled: 3%
-- Returned: 3%
-- Refunded: 2%
 
-Most orders were successfully delivered, while the remaining orders highlight opportunities to review cancellations, returns, and refunds.
+| Order Status | Percentage |
+|---|---:|
+| Delivered | 92% |
+| Cancelled | 3% |
+| Returned | 3% |
+| Refunded | 2% |
 
-### 5. Orders by Age Group & Gender
+The dashboard indicates that most orders were delivered successfully, while cancellations, returns, and refunds present opportunities for further investigation.
+
+### 5. Age Group & Gender Analysis
 - Adult women represented the strongest age-and-gender segment in the dashboard.
 - The analysis compares Adults, Seniors, and Teenagers to understand customer purchasing patterns.
 
 ### 6. Sales Channel Performance
-The dashboard shows the following channel contribution:
 
-- Amazon — 35.5%
-- Myntra — 23.4%
-- Flipkart — 21.6%
-- Ajio — 6.2%
-- Nalli — 4.8%
-- Meesho — 4.5%
-- Others — 4.1%
+| Sales Channel | Contribution |
+|---|---:|
+| Amazon | 35.5% |
+| Myntra | 23.4% |
+| Flipkart | 21.6% |
+| Ajio | 6.2% |
+| Nalli | 4.8% |
+| Meesho | 4.5% |
+| Others | 4.1% |
 
-Amazon was the leading channel, followed by Myntra and Flipkart.
+Amazon was the leading sales channel, followed by Myntra and Flipkart.
 
 ## 💡 Business Recommendations
 
-Based on the dashboard findings:
-
-- **Target the right audience:** Develop relevant campaigns for women customers and the strongest-performing age groups.
-- **Focus on high-performing regions:** Explore additional sales opportunities in Maharashtra, Karnataka, and Uttar Pradesh.
-- **Optimize sales channels:** Prioritize effective campaigns on Amazon, Myntra, and Flipkart while monitoring performance across other channels.
-- **Improve order experience:** Investigate cancellation, return, and refund reasons to identify operational improvements.
-- **Plan around sales trends:** Study March's performance to understand what contributed to the peak and replicate successful strategies where appropriate.
+- **Customer Targeting:** Develop targeted campaigns for high-performing customer segments.
+- **Regional Growth:** Investigate opportunities to increase sales in Maharashtra, Karnataka, and Uttar Pradesh.
+- **Channel Optimization:** Focus on effective marketing across Amazon, Myntra, and Flipkart while monitoring other channels.
+- **Order Management:** Analyze cancellation, return, and refund reasons to identify areas for improvement.
+- **Sales Planning:** Investigate March's peak performance and identify strategies that could be replicated in other months.
 
 ## 📂 Project Files
 
-- `dashboard.png` — Dashboard screenshot and visual preview.
-- Spreadsheet workbook — Contains the dashboard and supporting analysis.
-- Dataset (if included) — Source data used for the analysis.
+- [`Vrinda store annual report 2022.xlsx`](./Vrinda%20store%20annual%20report%202022.xlsx) — Spreadsheet workbook containing the dashboard and analysis.
+- [`Screenshot (109).png`](./Screenshot%20%28109%29.png) — Dashboard screenshot.
 
-## 🚀 How to Explore the Project
+## 🚀 How to Explore the Dashboard
 
-1. Open the spreadsheet workbook from this repository.
-2. Open the dashboard or reporting sheet.
-3. Use the available slicers to filter data by month, channel, and category.
-4. Explore the charts to compare sales trends, customer demographics, order statuses, and channel performance.
+1. Download the Excel workbook from this repository.
+2. Open it using Microsoft Excel or a compatible spreadsheet application.
+3. Navigate to the `REPORTING` sheet to view the dashboard.
+4. Use the available slicers to filter the dashboard by month, channel, and category.
+5. Explore the charts to understand sales performance and customer behavior.
 
 ## 📌 Conclusion
 
-The Vrinda Store Annual Report 2022 project demonstrates how spreadsheet-based analysis and interactive dashboards can transform sales data into meaningful business insights.
+This project demonstrates how spreadsheet tools and interactive dashboards can turn sales data into actionable business insights. It covers sales trends, customer demographics, regional performance, order fulfillment, and sales channel contribution.
 
-The analysis highlights women's sales contribution, regional performance, order fulfillment, monthly trends, and channel distribution. These findings can support better marketing decisions, customer targeting, and sales planning.
+The project strengthened my practical skills in spreadsheet analysis, dashboard design, data visualization, and business-oriented interpretation of data.
 
 ## 👨‍💻 Author
 
-**Mohit Sati**
-
-Aspiring Data Analyst | Spreadsheet Analysis | Data Visualization | Business Insights
+**Mohit Sati**  
+Aspiring Data Analyst | Data Visualization | Spreadsheet Analysis | Business Insights
 
 - GitHub: [MohitSati7](https://github.com/MohitSati7)
+- Project Repository: [Vrinda Store Annual Report 2022](https://github.com/MohitSati7/vrinda-store-annual-report-2022)
 
 ---
 
